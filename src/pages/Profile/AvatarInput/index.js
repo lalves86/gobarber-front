@@ -35,8 +35,6 @@ export default function AvatarInput() {
     setPreview(url);
   }
 
-  console.tron.log(preview);
-
   return (
     <Container>
       <label htmlFor="avatar">
